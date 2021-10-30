@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="handCenter">
+    <canvas type="2d" id="canvas" class="handWriting" disable-scroll="true" bindtouchstart="handleTouchStart"
+      bindtouchmove="handleTouchMove" bindtouchend="handleTouchEnd" bindtap="mouseDown">
+    </canvas>
+  </view>
+</view>

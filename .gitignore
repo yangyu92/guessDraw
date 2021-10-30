@@ -1,0 +1,10 @@
+/typings
+/jsconfig.json
+/.wing
+/*.orig
+.idea
+/miniprogram_npm
+/node_modules
+/project.private.config.json
+/package-lock.json
+
